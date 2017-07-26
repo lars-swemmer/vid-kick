@@ -1,0 +1,96 @@
+body {
+	font-family: 'Open Sans', sans-serif !important;
+}
+
+.second h2 {
+	font-weight: 600;
+	font-size: 40px;
+	line-height: 47px;
+}
+
+h3 {
+	font-weight: bold !important;
+	font-size: 20px;
+}
+
+p {
+	color: #686b77;
+	font-size: 16px;
+	line-height: 30px;
+}
+
+p.featured {
+	color: #fff;
+	font-size: 24px;
+	line-height: 40px;
+	text-align: center;
+	margin-top: -40px;
+}
+
+.effect{
+    width: 100%;
+    height: 100vh;
+   	position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    z-index: 9999;
+    opacity: 0.07;
+	pointer-events: none;
+
+}
+
+
+hr {
+	margin-top: 100px !important;
+}
+
+small {
+	color: #d0d0d0;
+}
+
+.second a {
+	color: #333;
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+.cover {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #000;
+}
+
+.cover video {
+	width: 100%;
+	height: auto;
+	/*max-width: 950px;*/
+}
+
+.second {
+	margin-top: 200px;
+	margin-bottom: 10px;
+	/*height: 100vh;*/
+}
+
+.second p {
+	font-size: 18px;
+	line-height: 40px;
+}
+
+.third {
+	margin-bottom: 100px;
+}
+
+.expertise {
+	margin-top: 100px;
+}
+
+.contact {
+	margin-bottom: 200px;
+}
+
+.contact img {
+	margin-top: 100px;
+}
