@@ -23,7 +23,7 @@
         <div class="cover">
             <img src="images/noise.gif" class="effect">
             <video autoplay="" muted="" playsinline="" loop="">
-                <source src="/videos/seq2.mp4" type="video/mp4">
+                <source src="/videos/seq3.mp4" type="video/mp4">
             </video>
         </div>
 
