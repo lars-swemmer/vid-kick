@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>VID-KICK - Build your YouTube channel</title>
+        <title>VID-KICK - Boost your YouTube channel</title>
         <meta name="author" content="vid-kick.dev/">
         <meta name="description" content="A YouTube certified professional with a lot of experience in YouTube and video editing." />
 
@@ -33,8 +33,8 @@
                     <div class="col-md-4 col-md-offset-4"><img class="img-responsive" src="images/Vid-kick-Logo-Black.png"></div>
 
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <h2>Build Your YouTube Channel</h2>
-                        <p>VID-KICK is a YouTube certified professional with a lot of experience in YouTube and video editing. VID-KICK will help you to build your YouTube channel. We will take over the tasks you need help with so you can focus on what you do best, creating. Our main goal is to assist and guide you on the path to success. You will get the attention and guidance that you deserve for a fair pricing.<br /><br /><a href="mailto:contact@vid-kick.com">Get in touch!</a>
+                        <h2>Boost Your YouTube Channel</h2>
+                        <p>VID-KICK is a YouTube certified professional with a lot of experience in YouTube and video editing. VID-KICK will help you to boost your YouTube channel. We will take over the tasks you need help with so you can focus on what you do best, creating. Our main goal is to assist and guide you on the path to success. You will get the attention and guidance that you deserve for a fair pricing.<br /><br /><a href="mailto:contact@vid-kick.com">Get in touch!</a>
                         </p>
                     </div>
                 </div>
