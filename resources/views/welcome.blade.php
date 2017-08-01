@@ -33,8 +33,8 @@
                     <div class="col-md-4 col-md-offset-4"><img class="img-responsive" src="images/Vid-kick-Logo-Black.png"></div>
 
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <h2>Build your YouTube channel</h2>
-                        <p>VID-KICK is a YouTube certified professional with a lot of experience in YouTube and video editing. We will help you to build your YouTube Channel.<br /><br />We will take over the tasks you need help with so you can focus on what you do best, creating. Our main goal is to assist and guide you on the path to success<br /><br /><a href="mailto:contact@vid-kick.com">Get in touch!</a>
+                        <h2>Build Your YouTube Channel</h2>
+                        <p>VID-KICK is a YouTube certified professional with a lot of experience in YouTube and video editing. VID-KICK will help you to build your YouTube channel. We will take over the tasks you need help with so you can focus on what you do best, creating. Our main goal is to assist and guide you on the path to success. You will get the attention and guidance that you deserve for a fair pricing.<br /><br /><a href="mailto:contact@vid-kick.com">Get in touch!</a>
                         </p>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
             <div class="container" style="margin-top: 120px;">
                 <div class="row">
                     <div class="col-md-5">
-                        <h3 style="margin-top: 90px;"><i class="fa fa-caret-square-o-right" aria-hidden="true"></i> Channel management</h3>
+                        <h3 style="margin-top: 90px;"><i class="fa fa-caret-square-o-right" aria-hidden="true"></i> Channel Management</h3>
                         <p>Keep your channel up-to-date, make it easy to find and irresistible for the viewers. Creating the best upload strategies and schedules that fit your audience. We even include uploading and scheduling your videos.</p>
                     </div>
                     <div class="col-md-offset-1 col-md-6">
