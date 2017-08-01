@@ -34,7 +34,7 @@
 
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <h2>Boost Your YouTube Channel</h2>
-                        <p>VID-KICK is a YouTube certified professional with a lot of experience in YouTube and video editing. VID-KICK will help you to boost your YouTube channel. We will take over the tasks you need help with so you can focus on what you do best, creating. Our main goal is to assist and guide you on the path to success. You will get the attention and guidance that you deserve for a fair pricing.<br /><br /><a href="mailto:contact@vid-kick.com">Get in touch!</a>
+                        <p>VID-KICK is a YouTube Certified professional with a lot of experience in YouTube and video editing. VID-KICK will help you to boost your YouTube channel. We will take over the tasks you need help with, so you can focus on what you do best: creating. Our main goal is to assist and guide you on the path to success. You will get the attention and guidance that you deserve for a fair pricing.<br /><br /><a href="mailto:contact@vid-kick.com">Get in touch!</a>
                         </p>
                     </div>
                 </div>
