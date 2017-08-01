@@ -23,7 +23,7 @@
         <div class="cover">
             <img src="http://rec.nl/wp-content/themes/rec/img/vcr.gif" class="effect">
             <video autoplay="" muted="" playsinline="" loop="">
-                <source src="/videos/intro_video.mov" type="video/mp4">
+                <source src="/videos/seq2.mp4" type="video/mp4">
             </video>
         </div>
 
@@ -52,9 +52,7 @@
                         <p>Keep your channel up-to-date, make it easy to find and irresistible for the viewers. Creating the best upload strategies and schedules that fit your audience. We even include uploading and scheduling your videos.</p>
                     </div>
                     <div class="col-md-offset-1 col-md-6">
-                        <video width="100%" autoplay="" muted="" playsinline="" loop="" style="border-radius: 10px;">
-                            <source src="https://ak9.picdn.net/shutterstock/videos/23827789/preview/stock-footage-video-streaming-on-smartphone-watch-online-video-suitable-for-infographics-presentation-or-adverti.mp4">
-                        </video>
+                        <img class="img-responsive" style="border-radius: 10px;" src="images/chn2.png">
                     </div>
                 </div>
                 <div class="row expertise">
