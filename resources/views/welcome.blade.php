@@ -21,7 +21,7 @@
     <body>       
 
         <div class="cover">
-            <img src="videos/noise.gif" class="effect">
+            {{-- <img src="videos/noise.gif" class="effect"> --}}
             <video autoplay="" muted="" playsinline="" loop="">
                 <source src="/videos/seq2.mp4" type="video/mp4">
             </video>
