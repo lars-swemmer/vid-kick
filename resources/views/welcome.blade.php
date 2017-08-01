@@ -21,7 +21,7 @@
     <body>       
 
         <div class="cover">
-            {{-- <img src="videos/noise.gif" class="effect"> --}}
+            <img src="images/noise.gif" class="effect">
             <video autoplay="" muted="" playsinline="" loop="">
                 <source src="/videos/seq2.mp4" type="video/mp4">
             </video>
@@ -79,18 +79,24 @@
         <hr>
 
         <div class="contact text-center">
-            <div class="row">
-                <div class="col-md-12">
-                    <img src="images/vidkickcontact.jpg">
-                        <h3>Let’s get in touch!</h3>
-                        <p>+31 6 3406 8468<br />
-                        <a href="mailto:contact@vid-kick.com" style="color: #000">contact@vid-kick.com</a></p>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <img src="images/vidkickcontact.jpg">
+                            <h3>Let’s get in touch!</h3>
+                            <p>+31 6 3406 8468<br />
+                            <a href="mailto:contact@vid-kick.com" style="color: #000">contact@vid-kick.com</a></p>
+                    </div>
                 </div>
-                <div class="col-md-12">
-                    <img style="max-width: 100px; margin-top: 60px;" src="images/youtube.png">
+                <div class="row">
+                    <div class="col-md-12">
+                        <img style="max-width: 100px; margin-top: 60px;" src="images/youtube.png">
+                    </div>
                 </div>
-                <div class="col-md-12" style="margin-top: 0px;">
-                    <small><i class="fa fa-copyright" aria-hidden="true"></i> Copyright {{ Carbon\Carbon::today()->format('Y') }}</small>
+                <div class="row">
+                    <div class="col-md-12" style="margin-top: 0px;">
+                        <small><i class="fa fa-copyright" aria-hidden="true"></i> Copyright {{ Carbon\Carbon::today()->format('Y') }}</small>
+                    </div>
                 </div>
             </div>
         </div>
