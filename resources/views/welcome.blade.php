@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>VID-KICK - Boost your YouTube channel</title>
+        <title>VID-KICK - YOUR PERSONAL VIDEO SIDEKICK</title>
         <meta name="author" content="vid-kick.dev/">
         <meta name="description" content="A YouTube certified professional with a lot of experience in YouTube and video editing." />
 
@@ -18,12 +18,12 @@
         <link rel="icon" href="images/favicon.png" />
     </head>
 
-    <body>       
+    <body>
 
         <div class="cover">
             <img src="images/noise.gif" class="effect">
             <video autoplay="" muted="" playsinline="" loop="">
-                <source src="/videos/seq3.mp4" type="video/mp4">
+                <source src="/videos/seq4.webm" type="video/mp4">
             </video>
         </div>
 
@@ -33,8 +33,8 @@
                     <div class="col-md-4 col-md-offset-4"><img class="img-responsive" src="images/Vid-kick-Logo-Black.png"></div>
 
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <h2>Boost Your YouTube Channel</h2>
-                        <p>VID-KICK is a YouTube Certified professional with a lot of experience in YouTube and video editing. VID-KICK will help you to boost your YouTube channel. We will take over the tasks you need help with, so you can focus on what you do best: creating. Our main goal is to assist and guide you on the path to success. You will get the attention and guidance that you deserve for a fair pricing.<br /><br /><a href="mailto:contact@vid-kick.com">Get in touch!</a>
+                        <h2>VID-KICK is the ultimate video sidekick for brands & creators.</h2>
+                        <br /><a href="mailto:contact@vid-kick.com">Get in touch!</a>
                         </p>
                     </div>
                 </div>
@@ -45,32 +45,20 @@
         <hr>
 
         <div class="third">
-            <div class="container" style="margin-top: 120px;">
-                <div class="row">
-                    <div class="col-md-5">
-                        <h3 style="margin-top: 90px;"><i class="fa fa-caret-square-o-right" aria-hidden="true"></i> Channel Management</h3>
-                        <p>Keep your channel up-to-date, make it easy to find and irresistible for the viewers. Creating the best upload strategies and schedules that fit your audience. We even include uploading and scheduling your videos.</p>
-                    </div>
-                    <div class="col-md-offset-1 col-md-6">
-                        <img class="img-responsive" style="border-radius: 10px;" src="images/chn2.png">
-                    </div>
-                </div>
+            <div class="container">
                 <div class="row expertise">
                     <div class="col-md-4">
-                        <span style="font-size: 32px;"><i class="fa fa-money" aria-hidden="true"></i></span>
-                        <h3>Monetizing</h3>
-                        <p>Providing the best options for your uploads to monetize.</p>
+                        <h3>Face Filters (Social Media AR)</h3>
+                        <p>VID-KICK develops AR (augmented reality) filters for Instagram, Facebook & Snapchat. They are built in-house entirely from scratch, allowing for your full control over the creative direction and development to ensure the final product fits your every need.</p>
 
                     </div>
                     <div class="col-md-4">
-                        <span style="font-size: 32px;"><i class="fa fa-line-chart" aria-hidden="true"></i></span>
-                        <h3>Audience Development</h3>
-                        <p>Monitoring your analytics to get the most favourable results.</p>
+                        <h3>YouTube Management </h3>
+                        <p>VID-KICK is a YouTube Certified professional with a decade of experience in channel management. From analysis to strategy, planning to production and distribution, VID-KICK is at your side to assist with every step of the process so you can focus on what you do best: creating.</p>
                     </div>
                     <div class="col-md-4">
-                        <span style="font-size: 32px;"><i class="fa fa-sliders" aria-hidden="true"></i></span>
                         <h3>Content Optimalization</h3>
-                        <p>Supporting you in your productions, editing and designs.</p>
+                        <p>VID-KICK has years of experience in editing and post-production for world renowned brands, artists and influencers covering a variety of creative projects. Do you need help with production, editing, designs and/or animation? Look no further.</p>
                     </div>
                 </div>
             </div>
@@ -84,7 +72,6 @@
                     <div class="col-md-12">
                         <img src="images/vidkickcontact.jpg">
                             <h3>Let’s get in touch!</h3>
-                            <p>+31 6 3406 8468<br />
                             <a href="mailto:contact@vid-kick.com" style="color: #000">contact@vid-kick.com</a></p>
                     </div>
                 </div>
